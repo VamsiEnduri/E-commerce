@@ -10,7 +10,7 @@ function App() {
       <Header />
       <BrowserRouter>
         <Routes>
-          <Route exact path="/home" element={<Home />} />
+          <Route exact path="/E-commerce" element={<Home />} />
           <Route exact path="shop" element={<Shop />} />
           <Route exact path="shop/:id" element={<ProductDetails />} />
         </Routes>
