@@ -1,0 +1,18 @@
+.cmn-section{
+    background-color: lemonchiffon;
+    color: black;
+    background: url("https://images.unsplash.com/photo-1627989580309-bfaf3e58af6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHNob3BwaW5nJTIwcGljc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60")  no-repeat center center/cover;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    /* bac */
+}
+.cmn-section h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

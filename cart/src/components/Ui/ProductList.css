@@ -1,0 +1,9 @@
+.pdt-cards{
+    /* width: 100%; */
+ /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   gap: 15px;
+}

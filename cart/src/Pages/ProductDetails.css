@@ -1,0 +1,54 @@
+.pdt-details-main{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+gap:30px;
+margin: 10px;
+/* border: 1px solid black; */
+}
+.pdt-img{
+    background-color: #f8f8f8;
+   
+}
+
+.pdt-details > p span{
+color: blue;
+}
+.pdt-details{
+   margin-top: 30px;
+   /* display: flex; */
+   flex-direction: column;
+   line-height: 40px;
+}
+.cart-btn{
+    margin-top: 20px;
+}
+.pdt-details h2{
+    margin-bottom: 20px;
+}
+.review-form{
+  margin: auto ;
+  margin-top: 5%;
+  text-align: center;
+}
+.review-form h4{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.form-group textarea, .form-group input{
+    width: 70%;
+    padding: 10px;
+}
+.form-group span{
+    display: inline-block;
+padding: 20px;
+   color: orange;
+   cursor: pointer;
+}
+.other h3{
+    margin-top: 5%;
+    margin-left: 15%;
+    font-size: 22px;
+    /* text-align: center; */
+}
